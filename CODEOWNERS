@@ -1,2 +1,5 @@
-[README Owners]
-README.md @jonDorito
+# CODEOWNERS' File Owners
+CODEOWNERS @jonDorito
+
+#Readme file owners
+README @jonDorito
