@@ -1,0 +1,11 @@
+# CODEOWNERS' File Owners
+CODEOWNERS @jonDorito
+
+#Readme file owners
+*.md @jonDorito
+
+#Java project owners
+java-rest-api/ @jonDorito
+
+#C-sharp project owners
+#C\#-NetCore/ @jonDorito
