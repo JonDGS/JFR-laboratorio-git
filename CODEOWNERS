@@ -2,4 +2,4 @@
 CODEOWNERS @jonDorito
 
 #Readme file owners
-README @jonDorito
+*.md @jonDorito
