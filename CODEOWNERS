@@ -8,4 +8,4 @@ CODEOWNERS @jonDorito
 java-rest-api/ @jonDorito
 
 #C# project owners
-C#-NetCore/ @jonDorito
+\C#-NetCore/ @jonDorito
