@@ -7,5 +7,5 @@ CODEOWNERS @jonDorito
 #Java project owners
 java-rest-api/ @jonDorito
 
-#C# project owners
+#C-sharp project owners
 \C#-NetCore/ @jonDorito
