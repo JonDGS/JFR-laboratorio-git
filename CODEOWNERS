@@ -3,3 +3,6 @@ CODEOWNERS @jonDorito
 
 #Readme file owners
 *.md @jonDorito
+
+#Java project owners
+java-rest-api/ @jonDorito
