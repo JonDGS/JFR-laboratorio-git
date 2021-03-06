@@ -5,7 +5,13 @@ CODEOWNERS @jonDorito
 *.md @jonDorito
 
 #Java project owners
-java-rest-api/ @jonDorito
+java-rest-api/ @jonDorito @RoJoSaVs
 
 #C-sharp project owners
-CsharpNetCore/ @jonDorito
+CsharpNetCore/ @jonDorito @FabianFallas
+
+#React project owners
+React/ @RoJoSaVs @jonDorito
+
+#Python project owners
+Python/ @FabianFallas @RoJoSaVs
